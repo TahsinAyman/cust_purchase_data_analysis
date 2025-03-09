@@ -30,6 +30,6 @@ This project involves analyzing a fake data of of CUST purchase using pandas.
 ### How to Run 👈
 - Clone the repository using 
     ```bash
-    git clone https://github.com/TahsinAyman/supermarket_rfm_analysis.git
+    git clone https://github.com/TahsinAyman/cust_purchase_data_analysis.git
     ```
 - Under a stable `Jupyter` environment open [`main.ipynb`](./main.ipynb) file
